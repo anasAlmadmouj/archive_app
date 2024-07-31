@@ -24,7 +24,7 @@ Welcome to the Digital Archive Apps Repository! This application is designed to 
 
 ## Installation
 
-1. Clone this repository using `git clone https://github.com/Hamad-Anwar/Task-Sync-Pro-Flutter.git
+1. Clone this repository using `git clone https://github.com/anasAlmadmouj/archive_app
 2. Navigate to the project directory: `cd archive_app`
 3. Install dependencies: `flutter pub get`
 4. **Add `google-services.json`:** For Firebase setup, each developer needs to add their own `google-services.json` file obtained from their Firebase project. Place this file in the `android/app` directory.
